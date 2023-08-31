@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: radial-gradient(circle, rgb(255, 255, 255), rgb(70, 69, 69));
+    
+}
+.menu {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.menu li {
+  margin: 15px;
+  display: inline;
+  font-size: 18px;
+  
+}
+
+nav ul li {
+  display: inline;
+  padding: 10px 10px;
+
+  
+  
+}
+.bodyone{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+    background-color: pink;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
